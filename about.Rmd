@@ -6,6 +6,6 @@ title: "About This Website"
 
 * [R Markdown Theme Gallery](https://www.datadreaming.org/post/r-markdown-theme-gallery/)
 
-* [Something Cool]()
+* [Something Cool](https://www.youtube.com/watch?v=DhBPFr3RRso)
 
-* [Something Better]()
+* [Something Else](https://www.youtube.com/watch?v=4Ym2F-tHdkk)
